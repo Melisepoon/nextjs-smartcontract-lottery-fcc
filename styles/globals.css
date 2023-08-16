@@ -1,0 +1,4 @@
+/* ensures global css file uses tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
